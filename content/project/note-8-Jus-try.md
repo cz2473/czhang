@@ -16,11 +16,9 @@ image_preview = "boards.jpg"
 tags = ["Chinese"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "project/law-school-business-1.pdf"
 
 # Does the project detail page use math formatting?
 math = false
 
 +++
-
-？？？
